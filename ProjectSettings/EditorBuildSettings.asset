@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/03 - SelectablesLayouts/Scenes/SelectablesLayouts.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
+    path: Assets/06 - Loading Bars/Scenes/LoadMenu.unity
+    guid: 2e40500c12c87ba46a23280187953f03
+  - enabled: 1
+    path: Assets/06 - Loading Bars/Scenes/Game.unity
+    guid: c0d944ca9defd20449bc336e50d75a08
   m_configObjects: {}
